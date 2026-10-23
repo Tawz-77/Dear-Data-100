@@ -15,3 +15,12 @@
  *                 Commuting = bottom right, Other = middle gap)
  *  Date      -> stored in each flower but not drawn yet
  *  Randomness is ONLY used for where in the garden a flower is planted.
+ */
+
+ import java.util.*;
+
+ String [] categories = {"Memory", "Travel", "Study/Work", "Social", "Technology"};
+ color [] catColours;
+
+ ArrayList<Flower> garden = new ArrayList<Flower>();
+ 
