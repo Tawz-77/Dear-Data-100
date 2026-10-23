@@ -5,10 +5,10 @@ ID,Location,Category,Intensity
 4,Commute,Weather,2
 5,Uni,Social,1
 6,Other,Weather,3
-7,
-8,
-9,
-10,
+7,Home,Social,4
+8,Commute,Weather,5
+9,Work,Work,2
+10,Work,Social,1
 11,
 12,
 13,
