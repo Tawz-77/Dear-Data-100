@@ -24,3 +24,6 @@
 
  ArrayList<Flower> garden = new ArrayList<Flower>();
  
+ // Create the zones for each category and size them respectively
+
+

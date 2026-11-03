@@ -12,9 +12,9 @@ ID,Location,Category,Intensity
 11,Uni,Social,4
 12,Commute,Travel,2
 13,Commute,Weather,1
-14,
-15,
-16,
+14,Commute,Travel,5
+15,Uni,Study,2
+16,Home,Study,3
 17,
 18,
 19,
