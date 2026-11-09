@@ -20,12 +20,16 @@
 
  import java.util.*;
 
- String [] categories = {"Memory", "Travel", "Study/Work", "Social", "Technology"};
+ String[] categories = {"Memory", "Travel", "Study/Work", "Social", "Technology"};
  color [] catColours;
 
  ArrayList<Flower> garden = new ArrayList<Flower>();  // All data points
 
- // Create the zones for each category and size them respectively
+void setup() {
+    size(1260, 880);
+    background(205,186, 136);
+
+}
 
 
  
