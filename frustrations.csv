@@ -15,10 +15,10 @@ ID,Location,Category,Intensity
 14,Commute,Travel,5
 15,Uni,Study,2
 16,Home,Study,3
-17,
-18,
-19,
-20,
+17,Home,Technology,5
+18,Commute,Travel,1
+19,Other,Social,2
+20,Commute,Technology,4
 21,
 22,
 23,
