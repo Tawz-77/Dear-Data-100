@@ -14,12 +14,11 @@
  *  Location  : which zone the flower is planted in
  *                (University = top, Home = bottom left,
  *            :     Commuting = bottom right, Other = middle gap)
- *  Date       stored in each flower but not drawn yet
- *  Randomness is ONLY used for where in the garden a flower is planted.
+ *  Randomness is ONLY used for where in each 'garden bed' a flower is planted.
  */
 
  import java.util.*;
-
+ import Flower;
  String[] categories = {"Memory", "Travel", "Study/Work", "Social", "Technology"};
  color [] catColours;
 
