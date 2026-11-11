@@ -17,6 +17,14 @@ class Flower {
     }
 
     void plant(){
+        pushMatrix(); // Store current 'draw' coordinates in a stack
+        translate(x,y); //Sets new draw coordinates for stem base
+
+        noStroke();
+        fill(petalCol);
+        for i (i=0; i < nPetals; i++);
         
+
+
     }
 }

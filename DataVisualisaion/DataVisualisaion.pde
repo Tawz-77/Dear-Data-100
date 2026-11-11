@@ -1,8 +1,6 @@
 /* Frustration Garden by Tawfeeq Hussain
- * This is a sketch that visualises the frustrations one feels
- * throughout the day over a period of time.
- * Each micro frustration is depicted as a flower and each flower whilst having
- * identical foundations will differ in screen placement, size and colour based
+ * This is a sketch that visualises the frustrations one feels throughout the day over a period of time.
+ * Each micro frustration is depicted as a flower and each flower whilst having identical foundations will differ in screen placement, size and colour based
  * off the key described below:
 
 
