@@ -12,7 +12,7 @@ class Flower {
         this.y = y;
         this.R = R;
         this.nPetals = nPetals;
-        this.petalCol = nPetals;
+        this.petalCol = petalCol;
 
     }
 
@@ -22,9 +22,19 @@ class Flower {
 
         noStroke();
         fill(petalCol);
-        for i (i=0; i < nPetals; i++);
-        
+        for (int i=0; i < nPetals; i++) {
+            pushMatrix();
+            rotate(i * TWO_PI / nPetals);
+            ellipse(0, -R * 0.5, R * 0.36, R * 0.7);
+            popMatrix();
+        }
+
+        fill(95 ,62, 40);
+        ellipse(0, 0, R * 0.56, R * 0.56);
+        popMatrix();
+
+        }
 
 
-    }
+
 }

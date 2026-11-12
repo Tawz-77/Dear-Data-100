@@ -16,7 +16,6 @@
  */
 
  import java.util.*;
- import Flower;
  String[] categories = {"Memory", "Travel", "Study/Work", "Social", "Technology"};
  color [] catColours;
 
